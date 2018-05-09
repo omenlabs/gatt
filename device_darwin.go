@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/currantlabs/gatt/xpc"
+	"github.com/omenlabs/gatt/xpc"
 )
 
 const (

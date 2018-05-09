@@ -3,7 +3,7 @@ package service
 import (
 	"log"
 
-	"github.com/currantlabs/gatt"
+	"github.com/omenlabs/gatt"
 )
 
 var (
